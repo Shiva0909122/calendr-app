@@ -44,6 +44,8 @@ A simple and efficient calendar application built with React that allows users t
    ```
 
    The application should now be running on [http://localhost:5173/](http://localhost:5173/).
+   
+   live at : https://calendar-application-elite.netlify.app/
 
 ## Usage
 
